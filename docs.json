@@ -4,10 +4,10 @@
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#000000",
-    "light": "#cfcfcf",
-    "dark": "#6f6f6f"
+    "light": "#e3e3e3",
+    "dark": "#0e0e0e"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/HoopAILogomark-SocialMedia.png",
   "navigation": {
     "global": {
       "anchors": [
@@ -82,8 +82,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/HoopAI-Wordmark(2).png",
+    "dark": "/images/HoopAI-Wordmark(3).png"
   },
   "navbar": {
     "links": [
@@ -125,5 +125,8 @@
   "styling": {
     "latex": false,
     "eyebrows": "section"
+  },
+  "background": {
+    "decoration": "windows"
   }
 }
