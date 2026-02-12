@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "sequoia",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#000000",
+    "light": "#cfcfcf",
+    "dark": "#6f6f6f"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -104,5 +104,26 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Inter"
+  },
+  "interaction": {
+    "drilldown": true
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "seo": {
+    "indexing": "all"
+  },
+  "api": {
+    "playground": {
+      "display": "interactive"
+    }
+  },
+  "styling": {
+    "latex": false,
+    "eyebrows": "section"
   }
 }
